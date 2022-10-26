@@ -1,6 +1,6 @@
 body {
     background-color: #dad7cd;
-    font-family: Papryus, "Lucida Handwriting", Copperplate, fantasy;
+    font-family: Papryus, Copperplate, fantasy;
 }
 
 h1 {
@@ -21,12 +21,9 @@ p {
 .ingredients {
     background-color: #a3b18a;
     width: 40%;
-    height: 400px;
+
 }
 
-.steps {
-    height: 400px;
-}
 
 h3 {
     color: #3a5a40;
