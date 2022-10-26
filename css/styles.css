@@ -20,8 +20,12 @@ p {
 
 .ingredients {
     background-color: #a3b18a;
-    width: 500px;
+    flex: 1;
 
+}
+
+.steps {
+    flex: 3;
 }
 
 
